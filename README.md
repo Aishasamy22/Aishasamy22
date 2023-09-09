@@ -2,7 +2,7 @@
 
 This repository includes SQL queries for analyzing the Global Missing Migrants Dataset from Kaggle.
 
-*The following analyses can be performed using the provided scripts*
+   The following analyses can be performed using the provided scripts
 
 📌 Calculating descriptive statistics: Use SQL queries to calculate counts, averages, minimum, and maximum values for key variables in the dataset.
 
